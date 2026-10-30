@@ -1,7 +1,0 @@
-.env
-.vscode
-__pycache__
-*/__pycache__
-*.session*
-*.session-journal
-unknown_errors.txt
